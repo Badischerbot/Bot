@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badischer Bot by Benjamin</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ff8a00, #da1b60); /* Farbverlauf als Hintergrund */
+            font-family: Arial, sans-serif;
+            color: #ffffff; /* Textfarbe */
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            color: #ffffff; /* Farbe für Links */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Badischer Bot by Benjamin</h1>
+    <p>Willkommen auf der Webseite des Badischen Bots - Erleben sie die Magie des Badischen Bots 😎</p>
+    <p>Links zu den Shops von Badischmokka:</p>
+    <ul>
+        <li><a href="https://www.badischmokka.com">Aktueller Shop</a></li>
+        <li><a href="https://badischmokka.de/password">Der bald verfügbare Shop</a></li>
+        <li><a href="https://www.schwarzwald-tourismus.info/attraktionen/badisch-mokka-a4d90c2164">Bewertung Badischmokka</a></li>
+    </ul>
+
+    <!-- JavaScript-Skripte einbinden -->
+    <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+    <script src="https://mediafiles.botpress.cloud/99e05a4b-c041-46c2-8afb-07224e0adcc9/webchat/config.js" defer></script>
+</body>
+</html>
